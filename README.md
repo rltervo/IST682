@@ -1,11 +1,10 @@
 # IST687 - Intro Data Science
-This is a general overview of what I learned in IST687.
 
 ## Opening Comments:
-This was my first Applied Data Science course from Syracuse University.  It was a lot of fun and I learned a lot.  The course was provided in the program R.  
+This was my first Applied Data Science course from Syracuse University.  It was a lot of fun and I learned a lot.
 
-## Course Overview:
-The course was an into into Data Science, statistics, programming in R, and how to apply various machine learning algorithms.
+The main topcis covered in this course was general knowledge in Data Science, Statistics, programming in R, and how to apply various machine learning algorithms.
+
 
 
 
