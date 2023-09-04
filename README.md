@@ -6,10 +6,10 @@ This was my first Applied Data Science course from Syracuse University.  It was 
 The main topics covered in this course was general knowledge in Data Science, Statistics, programming in R, and how to apply various machine learning algorithms.
 
 ## Assignments:
-#### There were  assignments were completed in the program R.
+There were  assignments were completed in the program R.  While I learned a lot with these assignments I don't believe they are worth a potential reader's time or energy.
 
 ## Final Project:
-
+The final project was an exercise in a notional 
 
 
 
