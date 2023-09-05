@@ -26,8 +26,7 @@ In the project three models were explored.  The Support Vector Machine (SVM), De
 *** On a particular highpoint, the course professor said that our final project was the best he had seen in nearly 3 years.
 
 ## Closing Remarks:
-I enjoyed learning the programming language R.  This was my first introduction to R and I was pleasantly surprised how easy it was to work with.  The instructor was excellent and created an extremely positive atmosphere.  In addition, I have been apart of many groups before and this was among the best experiences.
-
+I enjoyed learning the programming language R.  This was my first introduction to R and I was surprised how easy it was to work with, the syntax is straightforward and intuitive.  The instructor was excellent and created an positive atmosphere.  In all a great course.
 
 
 
