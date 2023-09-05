@@ -2,19 +2,19 @@
 
 ## Disclaimer:
 The material posted here is a represenation of my work for the course IST687.
-It is designed to show the quality of my work for potential employeers.
+It is designed to demonstrate the quality of my work.
 
 ## Opening Comments:
-This was my first Applied Data Science course from Syracuse University.  It was a lot of fun and I learned a lot.
+This was among the first Applied Data Science courses I took from Syracuse University.  It was a lot of fun and I learned a lot. Truly excellent instructor.
 
 The main topics covered in this course was general knowledge in Data Science, Statistics, programming in R, and how to apply various machine learning algorithms.
 
-In this repository 
+In this repository I have posted my prior assignments and final project.  The assignments were completed by myself and the final project was a group assignment.
 
 
 ## 1. Assignments:
-There were  assignments were completed in the program R.  
-I learned a lot with these assignments.  Most of these assignments were fairly straightforward.  On interesting exercise was the explainer video assignment.  In the explainer video I had to do a video explaining how to do that week's assignment.  It was a unique opportunity.
+Ther assignments were completed in the program R.  
+Many of these assignments were fairly straightforward.  On interesting exercise was the explainer video assignment.  In the explainer video I had to do a video explaining how to do that week's assignment.  It was a unique opportunity.
 
 ## 2. Final Project:   Predict Employee Attrition
 Employee attrition is a significant financial burden for companies.  The goal was to analyze employee data to try to accurately predict employees likely to leave the company.  If a model could accurately predict when employees were likely to leave then the company could have an opportunity to intervene.
@@ -25,7 +25,8 @@ In the project three models were explored.  The Support Vector Machine (SVM), De
 
 *** On a particular highpoint, the course professor said that our final project was the best he had seen in nearly 3 years.
 
-
+## Closing Remarks:
+I enjoyed learning the programming language R.  This was my first introduction to R and I was pleasantly surprised how easy it was to work with.  The instructor was excellent and created an extremely positive atmosphere.  In addition, I have been apart of many groups before and this was among the best experiences.
 
 
 
