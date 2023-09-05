@@ -10,9 +10,9 @@ There were  assignments were completed in the program R.
 I learned a lot with these assignments but I don't believe they are worth a potential reader's time or energy.
 
 ## Final Project:
-The final project was a group project with 5 members, including myself.
+The final project was a group project with 5 members, including myself.  The six steps of CRISP-DM methodology was used in this exercise.  The six steps include Business Understanding, Data Understanding, Data Prep, Modeling, Evaluating, and Deploying/Recommendations.
 
-The six steps of CRISP-DM methodology was used in this exercise.  The six steps include Business Understanding, Data Understanding, Data Prep, Modeling, Evaluating, and Delploying.  
+
 
 
 
