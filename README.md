@@ -1,7 +1,7 @@
 # IST687 - Intro Data Science
 
 ## Disclaimer:
-This material is a represenation of my work for the course IST687.  It shows the quality of work I like do.
+This material is a represenation of my work for the course IST687 and shows the quality of work I like do.
 
 ## Opening Comments:
 This was my first Applied Data Science course from Syracuse University.  It was a lot of fun and I learned a lot.
